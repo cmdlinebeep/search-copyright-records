@@ -1,0 +1,4 @@
+python-Levenshtein      # makes fuzzywuzzy faster
+fuzzywuzzy              # fuzzy string matches
+tqdm                    # progress bar
+Unidecode               # replacing accent characters with closest ASCII
